@@ -37,8 +37,6 @@ Abstract: This paper examines how packaging design in India’s personal care pr
 
 
 
-
-
 Keywords: gendered packaging, pink tax, personal care, semiotics, gender performativity. 
 
 Introduction 
@@ -481,4 +479,4 @@ Journal, I. (2025, February 17). Legal Analysis Of The Pink Tax In India: A Gend
 the-pink-tax-in-india-a-gender-based-economic-disparity
 Nelson, I. (2022). Is the Future of Personal Care Product Packaging Gender Neutral?: A Comparative Study on the Consumer Perceptions of Gendered Packaging by Generation Z and Generation X [fi=AMK-opinnäytetyö|sv=YH-examensarbete|en=Bachelor’s thesis|]. http://www.theseus.fi/handle/10024/752123
 Sexist design: How gendered packaging reinforces gender stereotypes and toxic masculinity | by Giorgia Lombardo | UX Collective. (n.d.). Retrieved May 19, 2025, from https://uxdesign.cc/sexist-design-how-gendered-packaging-reinforces-gender-stereotypes-and-toxic-masculinity-d00d3f03eaef
-
+.
